@@ -68,3 +68,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# WeatherNow 🌦️
+
+A simple Weather App built with **React** that shows real-time weather information.
+
+---
+
+## 🚀 Features
+- Get live weather updates
+- Responsive UI for all devices
+- Clean and minimal design
+
+---
+
+## 📂 Project Structure
+- **public/** → Static files (index.html, icons, manifest, etc.)
+- **src/** → React components, CSS, and logic
+- **docs/** → Documentation (ChatGPT conversation summary, notes)
+
+---
+
+## 🧑‍💻 Development
+To run the project locally:
+
+```bash
+git clone https://github.com/adarshvinodmishra/weather-now.git
+cd weather-now
+npm install
+npm start
