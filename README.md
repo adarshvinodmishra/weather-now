@@ -98,3 +98,21 @@ git clone https://github.com/adarshvinodmishra/weather-now.git
 cd weather-now
 npm install
 npm start
+
+
+---
+
+⚡ Ab tujhe karna yeh hai:  
+
+1. Repo me ja.  
+2. `README.md` edit kar.  
+3. Upar ka pura template copy-paste kar.  
+4. Commit changes.  
+
+---
+
+Bhai, kya mai tere repo ke liye ek **screenshot placeholder image** banakar dikhau (jisme likha ho "WeatherNow App Preview") taki README aur attractive lage?
+
+
+
+
